@@ -1,0 +1,14 @@
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\bin\Debug\net8.0\AlgebraicAlgorithms.exe
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\bin\Debug\net8.0\AlgebraicAlgorithms.deps.json
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\bin\Debug\net8.0\AlgebraicAlgorithms.runtimeconfig.json
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\bin\Debug\net8.0\AlgebraicAlgorithms.dll
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\bin\Debug\net8.0\AlgebraicAlgorithms.pdb
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\AlgebraicAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\AlgebraicAlgorithms.AssemblyInfoInputs.cache
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\AlgebraicAlgorithms.AssemblyInfo.cs
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\AlgebraicAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\AlgebraicAlgorithms.dll
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\refint\AlgebraicAlgorithms.dll
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\AlgebraicAlgorithms.pdb
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\AlgebraicAlgorithms.genruntimeconfig.cache
+C:\Users\kulik\source\repos\AlgebraicAlgorithms\AlgebraicAlgorithms\obj\Debug\net8.0\ref\AlgebraicAlgorithms.dll
