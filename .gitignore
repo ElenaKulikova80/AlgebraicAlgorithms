@@ -1,0 +1,23 @@
+# Папки сборок
+bin/
+obj/
+
+# Файлы пользователя
+*.user
+*.suo
+*.rsuser
+
+# VS / Rider
+.vs/
+.idea/
+
+# Логи
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio cache
+.vs/
